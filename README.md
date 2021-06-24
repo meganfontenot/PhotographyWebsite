@@ -1,4 +1,4 @@
-[Creative](http://startbootstrap.com/themes/creative/) is a one page, creative website theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+[Creative](http://startbootstrap.com/themes/creative/) is a one page, creative website theme built with [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/)
 
 ## Preview
 
